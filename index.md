@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Tutorial ISOmaster
 
 You can use the [editor on GitHub](https://github.com/a21sergonber/a21sergonber.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Qui fou Emmy Noether 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Noether fou una de les principals impulsores de l'àlgebra abstracta, i els seus avenços en topología, que es la branca de les matemàtiques dedicada a l'estudi de les propietats dels cosos geométrics, que segueixen inalterades per transformacions continues, son també notables.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Que és un preseed 
 
-- Bulleted
-- List
+En poques paraules, un fitxer preseed és un tipus de fitxer on s'emmagatzema una configuració que s'executarà amb l'instal·lació del sistema operatiu per tenir-lo ja configurat des d'un inici i estalviar temps.
 
-1. Numbered
-2. List
+### Instal·lació d'Isomaster
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a21sergonber/a21sergonber.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mentre es descarrega l'ISO, instal·larem l'isomaster, per això, obrirem una terminal nova i introduirem la comanda «sudo ap-get update» i acte seguit, en acabar la instal·lació «sudo apt-get install isomaster»
+*Nota: Tot i no ser obligatori, he iniciat sessió com a superusuari i realitzo un parell de vegades "sudo apt-get update" i "sudo apt-get upgrade" per assegurar-me de tenir-ho tot actualitzat.
